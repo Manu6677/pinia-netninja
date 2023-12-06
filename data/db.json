@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "isFav": false,
+      "title": "Code Daily"
+    },
+    {
+      "id": 2,
+      "isFav": false,
+      "title": "Take Coffee"
+    }
+  ]
+}
